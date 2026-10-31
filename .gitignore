@@ -1,0 +1,4 @@
+# Written by Herdr on load and check; not part of the mod.
+*.d.ts
+jsconfig.json
+.DS_Store
